@@ -6,6 +6,8 @@
 | --- | --- | --- | --- |
 | [`website`](website) | Public website with the scroll-driven 3D tour, and the Blender script that builds the model | Astro, React Three Fiber, GSAP, Blender | `localhost:4324` |
 
+Live demo of the website: [mattoznav.github.io/templates-bnb-website](https://mattoznav.github.io/templates-bnb-website/), published from the website repository with GitHub Pages.
+
 The folder is a Git submodule with its own repository and its own README with more detail. There is no backend and no booking engine: bookings go through the links set in the site settings.
 
 ## Requirements
